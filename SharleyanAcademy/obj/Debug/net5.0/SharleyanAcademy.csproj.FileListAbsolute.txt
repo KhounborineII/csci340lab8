@@ -149,3 +149,4 @@ C:\Users\metam\Desktop\School Stuff\SEM 1 SOP\DATA\csci340lab8\SharleyanAcademy\
 C:\Users\metam\Desktop\School Stuff\SEM 1 SOP\DATA\csci340lab8\SharleyanAcademy\obj\Debug\net5.0\Razor\Pages\Students\Details.cshtml.g.cs
 C:\Users\metam\Desktop\School Stuff\SEM 1 SOP\DATA\csci340lab8\SharleyanAcademy\obj\Debug\net5.0\Razor\Pages\Students\Edit.cshtml.g.cs
 C:\Users\metam\Desktop\School Stuff\SEM 1 SOP\DATA\csci340lab8\SharleyanAcademy\obj\Debug\net5.0\Razor\Pages\Students\Index.cshtml.g.cs
+C:\Users\metam\Desktop\School Stuff\SEM 1 SOP\DATA\csci340lab8\SharleyanAcademy\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
