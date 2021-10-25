@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "44Qbip3QJBWXLf8ktivMUM5OobYVllzph9/2CPJ7cUFd4zxElLjZBvtWc0T5gOmKpfY3OLFs2F+jEflmFzy5Iw==",
+  "dgSpecHash": "MT56eVQisPsrRER93SDytz6wW+vrOCXA7qbwPUn0i4Tzfy6kIt6IiIGWEhrqQEWMv84UJuM0k1ySRLSzGq4iOg==",
   "success": true,
   "projectFilePath": "C:\\Users\\metam\\Desktop\\School Stuff\\SEM 1 SOP\\DATA\\csci340lab8\\SharleyanAcademy\\SharleyanAcademy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\metam\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\metam\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.11\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\metam\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\metam\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\metam\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.0\\microsoft.aspnetcore.razor.language.5.0.0.nupkg.sha512",
